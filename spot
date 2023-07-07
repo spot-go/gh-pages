@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="go-import" content="spotgo.io/spot git https://github.com/spot-go/spot">
+        <meta name="go-source" content="spotgo.io/spot https://github.com/spot-go/spot https://github.com/spot-go/spot/tree/master{/dir} https://github.com/spot-go/spot/tree/master{/dir}/{file}#L{line}">
+        <meta http-equiv="refresh" content="0; url=https://pkg.go.dev/spotgo.io/spot">
+    </head>
+    <body>
+        Nothing to see here. Please <a href="https://pkg.go.dev/spotgo.io/spot">move along</a>.
+    </body>
+</html>
+
+
